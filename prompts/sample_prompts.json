@@ -1,0 +1,8 @@
+[
+    {
+        "prompt": "Create a simple Linux char driver with a 1KB internal buffer that supports read/write operations."
+    },
+    {
+        "prompt": "Write a Linux platform driver for a memory-mapped GPIO with interrupt support."
+    }
+]
