@@ -6,7 +6,7 @@
         "log": "Makefile not found."
     },
     "security": {
-        "buffer_safety": 1.0,
+        "buffer_safety": 0.0,
         "race_conditions": 0.5,
         "input_validation": 0.5
     },
@@ -19,7 +19,7 @@
         "efficiency": 1.0
     },
     "advanced": {
-        "debug_support": 1.0
+        "debug_support": 0.3
     },
-    "overall_score": 60.0
+    "overall_score": 31.5
 }
